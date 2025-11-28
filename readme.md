@@ -10,7 +10,7 @@ It saves rendered HTML pages and downloads images, CSS, JS, fonts, and other ass
     npm install
 
 ## Run
-    node save-rendered-with-assets.js
+    node save-rendered.js
 
 ## Output
 All files will be saved into:
